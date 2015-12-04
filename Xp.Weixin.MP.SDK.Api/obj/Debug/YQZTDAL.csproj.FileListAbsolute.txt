@@ -1,0 +1,9 @@
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\YQZT.Weixin.MP.SDK.YQZTDAL.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\YQZT.Weixin.MP.SDK.YQZTDAL.pdb
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\obj\Debug\YQZT.Weixin.MP.SDK.YQZTDAL.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\obj\Debug\YQZT.Weixin.MP.SDK.YQZTDAL.pdb
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\YQZT.Weixin.MP.SDK.Common.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\obj\Debug\YQZTDAL.csprojResolveAssemblyReference.cache
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\Newtonsoft.Json.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\YQZTDAL\bin\Debug\Newtonsoft.Json.xml

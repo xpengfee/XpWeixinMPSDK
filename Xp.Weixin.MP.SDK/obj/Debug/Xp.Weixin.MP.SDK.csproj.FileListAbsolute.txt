@@ -1,0 +1,14 @@
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\bin\Debug\Xp.Weixin.MP.SDK.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\bin\Debug\Xp.Weixin.MP.SDK.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\bin\Debug\Xp.Weixin.MP.Common.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\bin\Debug\Xp.Weixin.MP.Common.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\obj\Debug\Xp.Weixin.MP.SDK.csprojResolveAssemblyReference.cache
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\obj\Debug\Xp.Weixin.MP.SDK.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\DALFactory\obj\Debug\Xp.Weixin.MP.SDK.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\bin\Debug\Xp.Weixin.MP.SDK.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\bin\Debug\Xp.Weixin.MP.SDK.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\bin\Debug\Xp.Weixin.MP.Common.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\bin\Debug\Xp.Weixin.MP.Common.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\obj\Debug\Xp.Weixin.MP.SDK.csprojResolveAssemblyReference.cache
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\obj\Debug\Xp.Weixin.MP.SDK.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Xp.Weixin.MP.SDK\obj\Debug\Xp.Weixin.MP.SDK.pdb

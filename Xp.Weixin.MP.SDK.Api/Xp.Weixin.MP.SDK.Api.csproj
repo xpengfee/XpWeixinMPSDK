@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{644107ED-C9BB-43E6-B549-AECB06B19ACC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Xp.Weixin.MP.SDK.Api</RootNamespace>
+    <AssemblyName>Xp.Weixin.MP.SDK.Api</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net35\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdvancedAPIs\Custom\Custom.cs" />
+    <Compile Include="AdvancedAPIs\GroupMessage\GroupMessage.cs" />
+    <Compile Include="AdvancedAPIs\Groups\Groups.cs" />
+    <Compile Include="AdvancedAPIs\Media\Media.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuth.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuthAccessTokenResult.cs" />
+    <Compile Include="AdvancedAPIs\OAuth\OAuthUserInfo.cs" />
+    <Compile Include="AdvancedAPIs\QrCode\CreateQrCodeResult.cs" />
+    <Compile Include="AdvancedAPIs\QrCode\QrCode.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\Template.cs" />
+    <Compile Include="AdvancedAPIs\TemplateMessage\TempleteModel.cs" />
+    <Compile Include="AdvancedAPIs\User\User.cs" />
+    <Compile Include="Api\ApiConnection.cs" />
+    <Compile Include="Api\ApiContainer.cs" />
+    <Compile Include="Api\BaseApi.cs" />
+    <Compile Include="Api\FriendApi.cs" />
+    <Compile Include="Api\MediaApi.cs" />
+    <Compile Include="Api\MessageApi.cs" />
+    <Compile Include="CommonAPIs\AccessTokenContainer.cs" />
+    <Compile Include="CommonAPIs\CommonApi.cs" />
+    <Compile Include="CommonAPIs\CommonJsonSend.cs" />
+    <Compile Include="Entites\LoginRetJsonInfo.cs" />
+    <Compile Include="Passport\PassportBag.cs" />
+    <Compile Include="Passport\PassportCollection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SdkManager.cs" />
+    <Compile Include="Utility\Friend.cs" />
+    <Compile Include="CommonAPIs\Http.cs" />
+    <Compile Include="Utility\HttpUtility\Get.cs" />
+    <Compile Include="Utility\HttpUtility\Post.cs" />
+    <Compile Include="Utility\HttpUtility\RequestUtility.cs" />
+    <Compile Include="Utility\Login.cs" />
+    <Compile Include="Utility\Media.cs" />
+    <Compile Include="Utility\Message.cs" />
+    <Compile Include="Utility\Tools.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Xp.Weixin.MP.Common\Xp.Weixin.MP.Common.csproj">
+      <Project>{a2475b37-1e5c-4b91-8010-c884ad130160}</Project>
+      <Name>Xp.Weixin.MP.Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

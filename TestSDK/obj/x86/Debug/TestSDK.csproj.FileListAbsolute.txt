@@ -1,0 +1,13 @@
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\TestSDK.exe.config
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\TestSDK.exe
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\TestSDK.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\Xp.Weixin.MP.Common.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\Xp.Weixin.MP.SDK.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\Xp.Weixin.MP.Common.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\bin\Debug\Xp.Weixin.MP.SDK.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.csprojResolveAssemblyReference.cache
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.Form1.resources
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.Properties.Resources.resources
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.csproj.GenerateResource.Cache
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.exe
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\TestSDK\obj\x86\Debug\TestSDK.pdb

@@ -1,0 +1,15 @@
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.dll
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+D:\云和畅想\WorkSpace\公司内部\YQZT.Weixin.MP.SDK\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.dll
+E:\BaiduYunDownload\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+E:\BaiduYunDownload\YQZT.Weixin.MP.SDK\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\BaiduYunDownload\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.dll
+E:\BaiduYunDownload\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Common\bin\Debug\YQZT.Weixin.MP.SDK.Common.pdb
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.dll
+F:\e淘食代码\github\YQZT.Weixin.MP.SDK\Common\obj\Debug\YQZT.Weixin.MP.SDK.Common.pdb
